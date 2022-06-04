@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sd",
+    "slug": "sd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
